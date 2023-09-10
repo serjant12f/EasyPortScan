@@ -1,0 +1,15 @@
+D:\Projects\PortScan\PortScan\bin\Debug\net6.0\PortScan.exe
+D:\Projects\PortScan\PortScan\bin\Debug\net6.0\PortScan.deps.json
+D:\Projects\PortScan\PortScan\bin\Debug\net6.0\PortScan.runtimeconfig.json
+D:\Projects\PortScan\PortScan\bin\Debug\net6.0\PortScan.dll
+D:\Projects\PortScan\PortScan\bin\Debug\net6.0\PortScan.pdb
+D:\Projects\PortScan\PortScan\obj\Debug\net6.0\PortScan.csproj.AssemblyReference.cache
+D:\Projects\PortScan\PortScan\obj\Debug\net6.0\PortScan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\PortScan\PortScan\obj\Debug\net6.0\PortScan.AssemblyInfoInputs.cache
+D:\Projects\PortScan\PortScan\obj\Debug\net6.0\PortScan.AssemblyInfo.cs
+D:\Projects\PortScan\PortScan\obj\Debug\net6.0\PortScan.csproj.CoreCompileInputs.cache
+D:\Projects\PortScan\PortScan\obj\Debug\net6.0\PortScan.dll
+D:\Projects\PortScan\PortScan\obj\Debug\net6.0\refint\PortScan.dll
+D:\Projects\PortScan\PortScan\obj\Debug\net6.0\PortScan.pdb
+D:\Projects\PortScan\PortScan\obj\Debug\net6.0\PortScan.genruntimeconfig.cache
+D:\Projects\PortScan\PortScan\obj\Debug\net6.0\ref\PortScan.dll
